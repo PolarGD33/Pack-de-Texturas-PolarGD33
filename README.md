@@ -1,4 +1,4 @@
-![Avatar](https://github.com/user-attachments/assets/c54bb620-cb23-4241-8695-60c403d671d5)
+<img width="500" height="500" alt="pack" src="https://github.com/user-attachments/assets/a5e49084-1d5d-4237-8662-1554d96e9c45" />
 
 
 # Español México
