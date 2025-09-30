@@ -17,7 +17,7 @@ PolarMinase テクスチャパック
 バイオグラフィー：
 PolarMinaseは2022年2月にGeometry Dashコミュニティで開始されましたが、2016年の終わりにゲームについてはすでに知っていました。
 
-# EN-CA🇨🇦
+# English-Canada🇨🇦
 PolarMinase Texture Pack
 
 Subscribe to my YouTube channel!
@@ -25,7 +25,7 @@ Subscribe to my YouTube channel!
 Biography:
 PolarMinase started in February 2022 in the Geometry Dash community, although I already knew about the game at the end of 2016.
 
-# DE🇩🇪
+# Deutsch🇩🇪
 PolarMinase Texture Pack
 
 Abonniere meinen YouTube-Kanal!
